@@ -4,4 +4,4 @@ Methodun imzalari -methodun adi,methodun return type,ve methodun gonderdiyi para
 2)Menimsetme operatorlarini yazin 
 =,+=,-=,*=,/=,%=
 
-3)Console.Readline() methodunun return type-i voiddir. 
+3)Console.Readline() methodunun return type-i stringdir. 
