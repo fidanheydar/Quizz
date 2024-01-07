@@ -1,0 +1,7 @@
+1)Method signature(metodun imzalari nedir)
+Methodun imzalari -methodun adi,methodun return type,ve methodun gonderdiyi parametrdir
+
+2)Menimsetme operatorlarini yazin 
+=,+=,-=,*=,/=,%=
+
+3)Console.Readline() methodunun return type-i voiddir. 
